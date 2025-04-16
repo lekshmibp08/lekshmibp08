@@ -18,17 +18,17 @@
 
 ## Languages I Know:
 <div style="display:flex;">
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" />
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" title="C" />
 <img src="https://img.icons8.com/?size=100&id=40669&format=png" height="50" width="50" alt="C++" title="C++" />
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" /> 
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" />
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" />
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" />
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=Nlsua06Gvxel&format=png&color=000000" />
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" title="Java" />
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" title="Java Script" /> 
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" title="Type Script" />
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" title="Node.js" />
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=Nlsua06Gvxel&format=png&color=000000" title="React" />
 </div>
 
 ## Code Editor Tool:
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" />
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="VS Code"  />
 
 ## Database I Know:
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
