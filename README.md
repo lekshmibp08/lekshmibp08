@@ -1,7 +1,8 @@
 # Hi there 👋 It's me Lekshmi
 ---
 ##### software Developer
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3VtdjBibW5tbnZmZmNyMjR3cHdlejNyZHZocjNxdmVxY3N6NW5tbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width=400>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Z1NTA5YTF3YWUwOTMzNTh4NWVoZnh4N3pyNTlhZzBqNHF0ZmNiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1MSVKRopegDjYONwdF/giphy.gif" align="right" width=300 height=200>
+
 
 - ♑  I'm currently working on Doctor Appointment System project
 - 👨‍💻 Passionate about continuous learning and growing as a Full Stack Developer
